@@ -66,8 +66,6 @@ public class cube : MonoBehaviour
     }
 }
 ```
-</br></br></br></br></br></br></br></br>
-
 ## Output:
 ### Scene 1:
 #### Sphere before hitting cube
